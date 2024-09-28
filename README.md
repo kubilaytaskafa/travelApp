@@ -6,3 +6,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+Öncelikle herkese merhabalar,
+KuŞe Travel Agency örnek web sitesi uygulamasını sizlere sunuyorum .
+Bu bir örnek projedir. Projemiz sadece front-end alanında geliştirilmektedir.
+Projemiz sayesinde React-tailwindcss ve git gitHub konularında şahsıma eğitim vermektedir.
